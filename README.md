@@ -6,6 +6,5 @@
 ![JAVA](https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
 
 I am passionate about building the future with code. My work focuses on **Agent development and full-stack engineering**.
-
 <br>
 Feel free to follow me.
